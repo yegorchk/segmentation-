@@ -11,3 +11,4 @@
 >   и Crack&Pothole в  
 >   `data/potholes/{images,masks}/…` (структура описана в `00_prepare_data.ipynb`).  
 > * Скрипт конвертации json-масок Crack&Pothole → PNG находится в ячейке 3 фай­ла `00_prepare_data.ipynb`.
+# Веса уже обученной модели лежат в Диске: https://drive.google.com/file/d/1qID8iqPw6ZocwSt-0gaZ3USHBBzXbOAg/view?usp=sharing
